@@ -177,3 +177,7 @@ If you find this project useful, consider giving it a ⭐ on GitHub. It really h
 1.1.3
 
 schema jsons added
+
+1.1.4
+
+schema jsons users added
