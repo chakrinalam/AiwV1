@@ -172,3 +172,8 @@ This project is licensed under the **MIT License**. You’re free to use, modify
 If you find this project useful, consider giving it a ⭐ on GitHub. It really helps and motivates further development.
 
 > *“Small efforts, when done with care, can make a big difference.”*
+
+
+1.1.3
+
+schema jsons added
