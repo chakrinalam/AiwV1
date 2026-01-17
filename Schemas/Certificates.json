@@ -51,7 +51,7 @@
             "GroupByColumn": "UserName"
         }
     },
-    "NonSecured": {
+    "Secured": {
         "SubRoutes": [
             "Read",
             "Insert",

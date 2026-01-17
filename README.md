@@ -181,3 +181,7 @@ schema jsons added
 1.1.4
 
 schema jsons users added
+
+1.1.5
+
+protected ui added
