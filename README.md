@@ -185,3 +185,7 @@ schema jsons users added
 1.1.5
 
 protected ui added
+
+1.1.6
+
+redirect changed for donors
